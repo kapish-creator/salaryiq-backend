@@ -1,0 +1,348 @@
+experience_years
+ 3D Modeling
+ API Writing
+ APIs
+ AWS
+ Adobe XD
+ After Effects
+ Agile
+ Analytics
+ Architecture
+ Audit
+ Auditing
+ AutoCAD
+ Automation
+ Azure
+ Blogging
+ C#
+ CI/CD
+ CRM
+ CSS
+ Cloud
+ Communication
+ Compliance
+ Customer Analytics
+ DAX
+ Data Analysis
+ Data Cleaning
+ Data Validation
+ Data Visualization
+ Deep Learning
+ Design
+ Diagnostics
+ Docker
+ ERP
+ Embedded Systems
+ Energy Systems
+ Excel
+ Express
+ Financial Modeling
+ Firebase
+ Forecasting
+ Funnels
+ GST
+ Google Ads
+ HR Tools
+ HTML
+ IAM
+ Illustrator
+ Inspection
+ Java
+ JavaScript
+ Keyword Research
+ Kubernetes
+ Lab Research
+ Leadership
+ Linux
+ Logistics
+ ML
+ MQTT
+ Machine Learning
+ Manual Testing
+ Mapping
+ Marketing
+ Microcontrollers
+ MongoDB
+ NLP
+ Negotiation
+ Network Security
+ Node.js
+ OpenAI
+ Operations
+ Oracle
+ Oracle ERP
+ PMP
+ Patient Care
+ Payroll
+ Power BI
+ Product Knowledge
+ Production
+ PyTorch
+ Python
+ R
+ Reporting
+ Risk Modeling
+ Routing
+ SEM
+ SEO
+ SIEM
+ SQL
+ Scrum
+ Site Mgmt
+ Site Supervision
+ Six Sigma
+ SolidWorks
+ Spark
+ Spring Boot
+ Statistics
+ Supply Chain
+ Tableau
+ Taxation
+ TensorFlow
+ Terraform
+ TestNG
+ Troubleshooting
+ Web3
+ Wireframing
+ Xcode
+ api rest
+ api testing
+ communication
+ python
+ rest assured
+ selenium
+AWS
+AWS Security
+Agile
+Analytics
+ArcGIS
+Audit
+AutoCAD
+Azure
+C
+CRM
+Cisco
+Clinical Trials
+Communication
+Counseling
+Data Analysis
+Data Modeling
+Data Policy
+Deep Learning
+Docker
+Documentation
+ERP
+ESG
+Energy Efficiency
+Equity Research
+Ethical Hacking
+Excel
+Figma
+Financial Modeling
+Flutter
+Genomics
+Hadoop
+Hiring
+Hospital Mgmt
+Instagram Marketing
+Investment Analysis
+Java
+LLMs
+Lab Testing
+Leadership
+Lean
+Logistics
+ML
+MLflow
+MS Office
+Marketing
+Meta Ads
+Microservices
+MySQL
+NLP
+Networking
+Node.js
+Operations
+PLC
+PMP
+Patient Care
+Pharmacy Mgmt
+Photoshop
+Power BI
+Premiere Pro
+Python
+ROS
+React
+Recruitment
+Regulations
+Risk Assessment
+Risk Modeling
+Roadmapping
+SAP
+SEO
+SEO Writing
+SIEM
+STAAD Pro
+Safety Standards
+Sales
+Salesforce
+Selenium
+Sensors
+Shopify
+Solar Design
+SolidWorks
+Solidity
+Strategy
+Supply Chain
+Swift
+Talent Acquisition
+Tally
+Taxation
+Terraform
+Therapy
+UiPath
+Unity
+Vendor Mgmt
+job_role_AI Research Analyst
+job_role_AI Solutions Architect
+job_role_API Automation Tester
+job_role_AR/VR Developer
+job_role_Academic Counselor
+job_role_Actuarial Analyst
+job_role_Associate Data Analyst
+job_role_Automation Test Lead
+job_role_BI Developer
+job_role_Backend Developer
+job_role_Big Data Engineer
+job_role_Bioinformatics Scientist
+job_role_Blockchain Developer
+job_role_Business Analyst
+job_role_Business Development Executive
+job_role_Business Intelligence Developer
+job_role_Business analyst
+job_role_CRM Manager
+job_role_Chartered Accountant
+job_role_Chartered Financial Analyst
+job_role_Chief Technology Officer
+job_role_Civil Engineer
+job_role_Clinical Data Manager
+job_role_Cloud Architect
+job_role_Cloud Engineer
+job_role_Cloud Security Engineer
+job_role_Compliance Officer
+job_role_Content Writer
+job_role_Customer Experience Manager
+job_role_Customer Success Manager
+job_role_Customer Support Executive
+job_role_Cyber Security Analyst
+job_role_Cyber Security Engineer
+job_role_Data Analyst
+job_role_Data Analyst Intern
+job_role_Data Architect
+job_role_Data Engineer
+job_role_Data Governance Analyst
+job_role_Data Scientist
+job_role_Database Administrator
+job_role_DevOps Engineer
+job_role_Digital Marketing Specialist
+job_role_Digital Transformation Consultant
+job_role_E-commerce Manager
+job_role_ERP Consultant
+job_role_Electrical Engineer
+job_role_Embedded Systems Engineer
+job_role_Energy Auditor
+job_role_Financial Analyst
+job_role_Frontend Developer
+job_role_Full Stack Developer
+job_role_GIS Analyst
+job_role_Game Developer
+job_role_General Manager
+job_role_Graphic Designer
+job_role_Growth Hacker
+job_role_HR Executive
+job_role_HR Manager
+job_role_Healthcare Administrator
+job_role_Human Resources Assistant
+job_role_IT Director
+job_role_IT Manager
+job_role_Information Security Manager
+job_role_Investment Analyst
+job_role_Investment Banker
+job_role_IoT Engineer
+job_role_Junior Accountant
+job_role_Junior Civil Engineer
+job_role_Junior Data Analyst
+job_role_Lab Technician
+job_role_MLOps Engineer
+job_role_Machine Learning Engineer
+job_role_Marketing Executive
+job_role_Mechanical Engineer
+job_role_Medical Representative
+job_role_Mobile App Developer
+job_role_Network Engineer
+job_role_Nurse
+job_role_Operations Head
+job_role_Operations Manager
+job_role_Performance Marketing Manager
+job_role_Pharmacist
+job_role_Physiotherapist
+job_role_Plant Manager
+job_role_Procurement Manager
+job_role_Product Manager
+job_role_Production Engineer
+job_role_Program Manager
+job_role_Project Manager
+job_role_Prompt Engineer
+job_role_QA Tester
+job_role_Quantitative Analyst
+job_role_Renewable Energy Engineer
+job_role_Reporting Analyst
+job_role_Research Scientist
+job_role_Risk Analyst
+job_role_Robotics Engineer
+job_role_Robotics Process Automation Developer
+job_role_SEO Analyst
+job_role_Sales
+job_role_Sales Executive
+job_role_Senior Data Scientist
+job_role_Senior DevOps Engineer
+job_role_Senior Project Manager
+job_role_Senior Software Architect
+job_role_Site Reliability Engineer
+job_role_Site Safety Officer
+job_role_Social Media Manager
+job_role_Software Developer
+job_role_Structural Engineer
+job_role_Supply Chain Analyst
+job_role_Supply Chain Manager
+job_role_Supply Chain Planner
+job_role_Sustainability Consultant
+job_role_Talent Acquisition Manager
+job_role_Technical Product Owner
+job_role_Technical Support Engineer
+job_role_Technical Writer
+job_role_Telecaller
+job_role_Test Automation Engineer
+job_role_UI/UX Designer
+job_role_Video Editor
+job_role_iOS Developer
+work_mode_On-Site
+work_mode_Onsite
+work_mode_Remote
+company_type_Construction
+company_type_Consulting
+company_type_Corporate
+company_type_Education
+company_type_Hospital
+company_type_Infrastructure
+company_type_MNC
+company_type_Manufacturing
+company_type_Media
+company_type_Mid-Size Company
+company_type_Pharma
+company_type_Private
+company_type_Private Ltd
+company_type_Public Sector
+company_type_SaaS
+company_type_SaaS Startup
+company_type_Startup
